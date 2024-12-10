@@ -1,3 +1,6 @@
+<br />
+<br />
+
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/logo-dark.svg">
@@ -16,7 +19,9 @@
 
 >[!NOTE]
 > ## Current State: PoC
-> This project is currently a proof of concept made during the [Hacknime.to](https://www.hacknime.to/inovacie-pre-dynamicku-dopravu-trnavy-pomocou-ai/) competition that happend during 4.12 - 6.12.2024
+> This project is currently a proof of concept made during the [Hacknime.to](https://www.hacknime.to/inovacie-pre-dynamicku-dopravu-trnavy-pomocou-ai/) competition that happend during 4.12 - 6.12.2024 and won the ***2. place***
+>
+> This project will likely stay in this form for the foreseeable future, as it was made for the competition only.
 
 
 ## Showcase
@@ -25,12 +30,12 @@
 | ------------- | ------------- |
 | ![](./images/before.gif) | ![](./images/after.gif) |
 
-We use [uxsim package](https://github.com/toruseo/UXsim) to simulate the traffic based upon data parsed from API response snapshot from [Invipo Cloud Solution](https://www.invipo.com/en)
+We use [uxsim package](https://github.com/toruseo/UXsim) to simulate the traffic based upon data parsed from API response snapshot from [Invipo Cloud Solution](https://www.invipo.com/)
 
 
-## Future Plans
-- [ ] Waze Integration of incident avoidance
-- [ ] Real-Time model for adjusting the traffic light plans
+## Future Features
+- [ ] 🚗 Waze Integration of incident avoidance
+- [ ] 🚦 Real-Time model for adjusting the traffic light plans
 - [ ] And more...
 
 ---
